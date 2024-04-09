@@ -1,5 +1,8 @@
 <p align="center">
-<h1 align="center">Hi 👋, I'm Burak </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Burak+Tabanli!;" />
+	
+</h1>
 <h2> <p align="center">Welcome to my page! :tada: </p></h2>
 <div align="center">
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
