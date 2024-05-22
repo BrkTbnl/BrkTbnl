@@ -45,10 +45,11 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2><p align="center">📊 GitHub Stats</p></h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brktbnl&show_icons=true&locale=en&layout=compact" alt="brktbnl" /></p>
+<p align="center">&nbsp;<img height="250" width= "500" align="center" src="https://github-readme-stats.vercel.app/api?username=brktbnl&show_icons=true&locale=en" alt="brktbnl" />
 
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brktbnl&show_icons=true&locale=en" alt="brktbnl" /></p>
+</br>
+        <img height="250" width= "500" align="center" src="https://github-contributor-stats.vercel.app/api?username=BrkTbnl&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -58,9 +59,9 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	<img height="150" width="150" src="webp/right.webp">
 	</br>
 	<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- 	</br>
-        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=BrkTbnl&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
-	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrkTbnl&show_icons=true&locale=en&layout=compact&langs_count=8" alt="BrkTbnl"/></a>
+	</br>
+	<img height="250" width= "500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brktbnl&show_icons=true&locale=en&layout=compact" alt="brktbnl" /></p>
+
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
