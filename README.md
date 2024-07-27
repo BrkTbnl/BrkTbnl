@@ -9,7 +9,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">🎤About Me</h2>
-<p align="center"> I am a passionate Software Automation Tester from Turkey, currently living in Poland, studying Software Development. </p>
+<p align="center"> I am a passionate Software Automation Tester from Turkey, now based in Poland and studying Software Development. Experienced in creating automation frameworks, I have a solid background in UI, DB, and API testing. </p>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
