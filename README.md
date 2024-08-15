@@ -28,6 +28,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
            height="40"/></a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySql" width="40" height="40"/></a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
+	<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40" height="40"/></a>
 	<a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/C114Brg/imageedit-9-3670423130.png" alt="Robot Framework" width="40" height="40"/></a> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> 
