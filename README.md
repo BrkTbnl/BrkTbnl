@@ -29,15 +29,13 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySql" width="40" height="40"/></a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
 	<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40" height="40"/></a>
+	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a> 
 	<a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/C114Brg/imageedit-9-3670423130.png" alt="Robot Framework" width="40" height="40"/></a> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> 
 	<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
 	<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/></a>
-	<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud" target="_blank" rel="noreferrer"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="Jira Xray" width="40" height="40"/></a>
-	<a href="https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira?tab=overview&hosting=cloud" target="_blank" rel="noreferrer"> <img src="https://marketplace-cdn.atlassian.com/files/7842850b-2144-4e63-a948-274d9e5accc1?fileType=image&mode=full-fit" alt="Jira Zephyr" width="40" height="40"/></a>
 	<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="Intellij IDEA" width="40" height="40"/></a>
-	<a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord" width="40" height="40"/></a> 
 	</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
