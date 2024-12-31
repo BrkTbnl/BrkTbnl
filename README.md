@@ -81,8 +81,6 @@
 <h2><p align="center">📫 Connect With Me</p></h2>
 <p align="center">  
 	<a href="https://www.linkedin.com/in/brktbnl/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>              
-	<a href = "mailto:b.tabanli93@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-	<a href = "mailto: b.tabanli93@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 	</br>
 </p>
 
