@@ -16,7 +16,7 @@
 
 <h2 align="center">🎤About Me</h2>
 
-- 🧑‍💻 I am a passionate Software Automation Engineer from Turkey both manual and automated testing.
+- 🧑‍💻 I am a passionate QA Automation Engineer from Turkey.
 - 🚀 Proficient in:
   - **Java, JavaScript, Python, Selenium, Playwright, TestNG, Cucumber BDD, Maven, JUnit** 
   - Database Testing: **MySQL, JDBC**
